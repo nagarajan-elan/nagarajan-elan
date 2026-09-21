@@ -2,7 +2,7 @@
 <h3 align="center">Backend | AI | Forward Deployed Engineer</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: nagarajan.e.careers@gmail.com </h3>
 <p align="left">
 </p>
 
